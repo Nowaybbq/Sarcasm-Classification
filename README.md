@@ -31,7 +31,7 @@ To install and set up this project on your local machine, follow these steps:
 ```bash
    pip install -r requirements.txt
 ```
-3. Running <a name="running"></a>
+## 3. Running <a name="running"></a>
 
 4. run locally
 
