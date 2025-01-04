@@ -31,15 +31,15 @@ To install and set up this project on your local machine, follow these steps:
 ```bash
    pip install -r requirements.txt
 ```
-3. Running <a name="running"></a>
+## 3. Running <a name="running"></a>
 
-4. run locally
+1. run locally
 
 ```bash
    uvicorn main:app --reload
 ```
-5. Log in https://www.postman.com/
-6. Send POST request at http://127.0.0.1:8000/classify-text/ with raw json
+2. Log in https://www.postman.com/
+3. Send POST request at http://127.0.0.1:8000/classify-text/ with raw json
 
 ```bash
     {
